@@ -13,4 +13,4 @@ For PS3 are different
 - Download all file on external "Hard Disck" or "Key USB" -> modified in "FAT32"
 - Go on PS3 and DOwnload all files
 
-HAVE FUN!!
+HAVE FUN!
