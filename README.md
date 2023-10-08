@@ -7,7 +7,7 @@ Follow the instructions on PC, PLS! (thanks)
 - Save all file on your PC
 - Go on "Documents"
 - "My games"
-- And chose your file "Borderlands 2, Borderlands 3"...
+- And chose your file "Borderlands 2, Borderlands 3"... (transfer the files in the appropriate folder)
 
 For PS3 are different
 - Download all file on external "Hard Disck" or "Key USB" -> modified in "FAT32"
