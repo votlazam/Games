@@ -11,6 +11,6 @@ Follow the instructions on PC, PLS! (thanks)
 
 For PS3 are different
 - Download all file on external "Hard Disck" or "Key USB" -> modified in "FAT32"
-- Go on PS3 and Download all files (only what you see, don't worry.)
+- Go on PS3 and Download all files (only what you see, don't worry)
 
 HAVE FUN!
