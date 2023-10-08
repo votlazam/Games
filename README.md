@@ -1,4 +1,2 @@
 # Games
-Borderlands/Wonderlands Save
-
-Save 100% real (no mods)
+Borderlands/Wonderlands Save (no mods)
