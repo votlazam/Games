@@ -1,5 +1,5 @@
 # Games
-Borderlands/Wonderlands Save (no mods)
+Borderlands/Wonderlands Save (mod and no mod)
 
 PS. For "Pull Requests" you are welcome. Could you put or create a folder with your files! (SORRY BUT I HAVE NOT OTHER SAVE!)
 
